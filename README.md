@@ -19,7 +19,7 @@ I am a passionate and dedicated web developer with a strong foundation in both f
 - **UI Libraries**:  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Materialize](https://img.shields.io/badge/-Materialize-C76D6E?style=flat&logo=material-design&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
   
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
