@@ -1,7 +1,7 @@
 ## About Me
 Hi! My name is Mark
 
-I am a passionate and dedicated web developer with a strong foundation in both front-end and back-end technologies. With a proficiency level ranging from B2 (Advanced) to C1 (Proficient) in English, I am capable of effectively communicating complex technical concepts and collaborating in diverse teams. I have a keen interest in continuously improving my skills and staying up-to-date with the latest trends in web development.
+I am a passionate and dedicated web developer with a strong foundation in both front-end and back-end technologies. With a proficiency of C1 (Proficient) in English, I am capable of effectively communicating complex technical concepts and collaborating in diverse teams. I have a keen interest in continuously improving my skills and staying up-to-date with the latest trends in web development.
 
 ## Technical Skills
 
